@@ -1,4 +1,4 @@
-echo "www.poonker.us" > CNAME
+echo "poonker.us" > CNAME
 git add -A
 git commit -m “Added CNAME file.”
 git push origin master
